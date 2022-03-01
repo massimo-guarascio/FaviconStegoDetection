@@ -10,4 +10,4 @@ The code is developed and maintained by Massimo Guarascio, Nunziato Cassavia and
 
 
 ### Input details
-We assume that the main directory includes a number of subfolders, one for each class (in our setting, legitimate favicons and the ones embedded with php scripts or urls). Each subfolder contains the corresponding favicons.
+We assume that the main directory includes a number of subfolders, one for each class (in our setting, legitimate favicons and the ones embedded with php scripts or urls). Each subfolder contains the corresponding type of favicons.
