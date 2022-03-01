@@ -7,3 +7,7 @@ The DNN consists of a stack of different sub-nets. Each SubNet is composed of th
 ## Authors
 
 The code is developed and maintained by Massimo Guarascio, Nunziato Cassavia and Marco Zuppelli (massimo.guarascio@icar.cnr.it , nunziato.cassavia@icar.cnr.it, marco.zuppelli@ge.imati.cnr.it)
+
+
+### Input details
+We assume that the main directory includes a number of subfolders, one for each class (legitimate favicons and the one embedded with php scripts or urls).
