@@ -6,4 +6,4 @@ The DNN consists of a stack of different sub-nets. Each SubNet is composed of th
 
 ## Authors
 
-The code is developed and maintained by Massimo Guarascio and Nunziato Cassavia(massimo.guarascio@icar.cnr.it , nunziato.cassavia@icar.cnr.it)
+The code is developed and maintained by Massimo Guarascio, Nunziato Cassavia and Marco Zuppelli (massimo.guarascio@icar.cnr.it , nunziato.cassavia@icar.cnr.it, marco.zuppelli@ge.imati.cnr.it)
