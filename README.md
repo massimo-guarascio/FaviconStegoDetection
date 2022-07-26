@@ -4,6 +4,9 @@ Our approach focuses on processing and analysing the k LSBs of each pixel of the
 
 The DNN consists of a stack of different sub-nets. Each SubNet is composed of three main parts: a fully-connected dense layer equipped with a Rectified Linear Unit (ReLU), a batch-normalization layer and a dropout layer. The output layer of the DNN is instantiated on the basis of the specific task, detection or classification. 
 
+## Dataset
+The dataset can be found at [Stego-Favicons-Dataset](https://github.com/Ocram95/Stego-Favicons-Dataset).
+
 ## Authors
 
 The code is developed and maintained by Massimo Guarascio, Nunziato Cassavia and Marco Zuppelli (massimo.guarascio@icar.cnr.it , nunziato.cassavia@icar.cnr.it, marco.zuppelli@ge.imati.cnr.it)
