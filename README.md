@@ -14,7 +14,7 @@ The code is developed and maintained by Massimo Guarascio, Nunziato Cassavia and
 ## References
 
 [Massimo Guarascio, Marco Zuppelli, Nunziato Cassavia, Luca Caviglione, Giuseppe Manco:
-Revealing MageCart-like Threats in Favicons via Artificial Intelligence. ARES 2022]([https://github.com/Ocram95/Stego-Favicons-Dataset](https://doi.org/10.1145/3538969.3544437)).
+Revealing MageCart-like Threats in Favicons via Artificial Intelligence. ARES 2022](https://doi.org/10.1145/3538969.3544437).
 
 ### Input details
 We assume that the main directory includes a number of subfolders, one for each class (in our setting, legitimate favicons and the ones embedded with php scripts or urls). Each subfolder contains the corresponding type of favicons.
